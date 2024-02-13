@@ -60,7 +60,7 @@
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
             <head>MRS DALLOWAY IN BOND STREET</head>
-            <byline>BY VIRGINIA WOOLF</byline>
+            <byline>BY <persName role="aut">VIRGINIA WOOLF</persName></byline>
 
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
@@ -90,7 +90,7 @@
             <p>"Good morning to you!" said Hugh Whitbread raising his hat rather extravagantly by
                the china shop, for they had known each other as children. "Where are you off
                to?"</p>
-            <pb n="21" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_02.jpg"/>
+            <pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_02.jpg" xml:space="default" n="21"/>
             <p>"I love walking in London" said Mrs Dalloway. "Really it's better than walking in the
                country!"</p>
             <p>"We've just come up" said Hugh Whitbread. "Unfortunately to see doctors."</p>
